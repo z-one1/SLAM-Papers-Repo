@@ -1,50 +1,36 @@
-# SLAM-Repo
+# SLAM-Paper-List
 
 
-This repository aims to track current research trends and provide a comprehensive overview of SLAM.
+This repository is designed to monitor the latest research and offer direct access to SLAM papers.
 
 ---
 
 ## Table of Contents:
 
-- [SLAM-Repo](#slam-repo)
+- [SLAM-Paper-List](#slam-paper-list)
   - [Table of Contents:](#table-of-contents)
-  - [V-SLAM](#v-slam)
-    - [Direct Method](#direct-method)
-    - [Feature-based Method](#feature-based-method)
-  - [LiDAR-SLAM](#lidar-slam)
-  - [Multi-Sensor-Fusion-SLAM](#multi-sensor-fusion-slam)
-  - [Learning-baed-SLAM](#learning-baed-slam)
-  - [NeRF-SLAM](#nerf-slam)
-  - [GS-SLAM](#gs-slam)
+  - [Conference](#conference)
+    - [CVPR (2024)](#cvpr-2024)
+    - [ICRA (2024)](#icra-2024)
+  - [Journal](#journal)
+    - [IEEE Transactions on Robotics (2024)](#ieee-transactions-on-robotics-2024)
 
 ---
 
-## V-SLAM
+## Conference 
 
-### Direct Method
+### CVPR (2024)
 
-### Feature-based Method
+- Paper a 
+  - Present a Method
+- Paper b
+  - Present a Method 
 
----
-
-## LiDAR-SLAM
-
----
-
-## Multi-Sensor-Fusion-SLAM
+### ICRA (2024)
 
 ---
 
-## Learning-baed-SLAM
+## Journal 
 
----
-
-## NeRF-SLAM
-
----
-
-## GS-SLAM
-
----
+### IEEE Transactions on Robotics (2024)
 
